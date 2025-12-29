@@ -3,8 +3,9 @@ rich==14.2.0
 markdown-it-py==4.0.0
 mdurl==0.1.2
 pygments==2.19.2
-sentence-transformers
-spacy
-python-docx
-PyPDF2
-nltk
+sentence-transformers==2.2.2
+spacy==3.7.1
+python-docx==0.8.12
+PyPDF2==3.1.1
+nltk==3.9.0
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
