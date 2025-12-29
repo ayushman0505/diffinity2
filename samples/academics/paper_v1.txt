@@ -1,0 +1,5 @@
+Title: AI in Healthcare
+
+This paper explores AI applications in diagnosis.
+Decision trees were used on a dataset of 1,000 samples.
+Accuracy achieved was 85%.
